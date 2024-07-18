@@ -1,4 +1,4 @@
-## Hi there 👋 I am Mir DataScientist | MLOps | System Engineer | Pronciple Engineer | Electrical and Computer Eng. Phd.-Ing
+## Hi there 👋 I am Mir DataScientist | MLOps | System Engineer | Electrical and Computer Eng. Phd.-Ing
 
 - Possessing over a decade of experience in designing cutting-edge hardware and algorithms for medical devices (designed more than 10 Medical Sensors from scrach idea to preproduct stage).
 - Over 10 years of pureR & D experience in world class organizations such as Huawei sensor Lab, Technical University of Munich, Helmholtz Zentrum, and various startup companies.
