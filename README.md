@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋 I am Mir DataScientist | MLOps | System Engineer | Pronciple Engineer | Electrical and Computer Eng. Phd.-Ing
 
-<!--
-**mirmehdi/mirmehdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Possessing over a decade of experience in designing cutting-edge hardware and algorithms for medical devices (designed more than 10 Medical Sensors from scrach idea to preproduct stage).
+- Over 10 years of pureR & D experience in world class organizations such as Huawei sensor Lab, Technical University of Munich, Helmholtz Zentrum, and various startup companies.
+- Expert in using Python, Matlab
+- Solid foundation in Mathematics, Statistics, signal/Image processing.
+- Developer of end-to-end AI/ML/DL projects, collaborating with cross-functional teams.
+-  🔭 I’m currently learning MLOps techniques, Continuous Integration and Deployment, DataOps - Isolation, DataOps - Orchestration,  Monitoring.  
+- 🌱 I’m currently working on different Datascience projects such as Red Blood Cell Identifier, Stock Market nalysis, and Blood glucose prediction. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mirmehdi Seyedebrahimi" height="30" width="40" />
+  </a>
+</p>
+
+
+</p>
+---
