@@ -21,8 +21,9 @@
 </p>
 ---
 ### 🏅 My Professional Badges
-### 🏅 My Professional Badges
+
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/G3YN8YBBTNF5"><img src="./DLAI.png" width="150"></a>
+  <a href="https://files.datascientest.com/diploma/cae1fe2f-fa11-416a-99a2-521bc0357e9c.pdf"><img src="./DST.png" width="150"></a>
 </p>
