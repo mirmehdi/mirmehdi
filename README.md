@@ -25,5 +25,17 @@
 
 <p align="center">
   <a href="https://www.coursera.org/account/accomplishments/certificate/G3YN8YBBTNF5"><img src="./DLAI.png" width="150"></a>
-  <a href="https://files.datascientest.com/diploma/cae1fe2f-fa11-416a-99a2-521bc0357e9c.pdf"><img src="./DST.png" width="150"></a>
+  <a href="https://files.datascientest.com/diploma/cae1fe2f-fa11-416a-99a2-521bc0357e9c.pdf"><img src="./DST.png" width="150" ></a>
+  
+</p>
+
+### 🛠 Skills
+
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  </a>
 </p>
