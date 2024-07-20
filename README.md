@@ -46,6 +46,28 @@
   </a>
 </p>
 
-### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirmehdi&show_icons=true&locale=en&layout=compact" alt="mirmehdi" /></p>
+### Projects
+
+#### BloodPy-Automated Blood Cell Classifier
+[![GitHub Repository](https://img.shields.io/badge/Repository-Link-blue?style=flat&logo=github)](https://github.com/mirmehdi/RBCells_BigData_CNN.git)
+
+**Description:**
+> Multi-Classification of Peripheral Blood Cells using Deep Convolutional Neural Networks and Machine Learning Models.
+
+**Techniques:**
+- Deep CNN
+- Data Augmentation
+- Transfer Learning
+- U-Net
+- Image Processing
+- Statistical Analysis
+- OpenCV
+- Fine-tuning
+
+**Data Types:**
+- Image
+- Metadata
+
+**Poster:**
+![Project 1 Poster](cell.png)
