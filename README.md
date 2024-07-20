@@ -51,10 +51,10 @@
 
 <table>
   <tr>
-    <th style="text-align:left">Project</th>
+    <th style="text-align:left">Project Title</th>
     <th style="text-align:left">Techniques</th>
     <th style="text-align:left">Data Types</th>
-    <th style="text-align:left">Poster</th>
+    <th style="text-align:left">Cover</th>
   </tr>
   <tr>
     <td>
