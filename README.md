@@ -38,4 +38,14 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </a>
+  <a href="https://mlflow.org/" target="_blank">
+    <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio" />
+  </a>
 </p>
+
+### 📊 GitHub Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhabibi&show_icons=true&locale=en&layout=compact" alt="mdhabibi" /></p>
