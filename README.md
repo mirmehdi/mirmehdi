@@ -72,9 +72,8 @@
       - Fine-tuning
     </td>
     <td>
-      - Image<br>
-      - Metadata
+      - Microscopy Images based on Munich/Barcelona Hospital images.  
     </td>
-    <td><img src="artifact_removal.jpg" alt="Project 1 Poster" width="200"></td>
+    <td><img src="cell.jpg" alt="Project 1 Poster" width="200"></td>
   </tr>
 </table>
