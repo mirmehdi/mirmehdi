@@ -51,10 +51,11 @@
 
 <table>
   <tr>
+    <th style="text-align:left">Cover</th>
     <th style="text-align:left">Project Title</th>
     <th style="text-align:left">Techniques</th>
     <th style="text-align:left">Data Types</th>
-    <th style="text-align:left">Cover</th>
+    
   </tr>
   <tr>
     <td>
@@ -88,7 +89,7 @@
     <td>
       - .csv Questoin Bank  
     </td>
-    <td><img src="survey.pnj" alt="Project 2 image" width="200"></td>
+    <td><img src="survey.png" alt="Project 2 image" width="200"></td>
   </tr>
 </table>
 
