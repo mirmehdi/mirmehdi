@@ -79,23 +79,16 @@
 
  <tr>
     <td>
-      <a href="https://github.com/mirmehdi/RBCells_BigData_CNN.git"><strong>BloodPy-Automated Blood Cell Classifier</strong></a><br>
-      <em>Multi-Classification of Peripheral Blood Cells using Deep Convolutional Neural Networks and Machine Learning Models.</em>
+      <a href="https://github.com/mirmehdi/SurveyBank_FastAPI.git"><strong>Automatic Survey Producer API</strong></a><br>
+      <em> A survey with different subject, use, and Number were chosen from survey Bank. Fast API were used to deploy the content.</em>
     </td>
     <td>
-      - Deep CNN<br>
-      - Data Augmentation<br>
-      - Transfer Learning<br>
-      - U-Net<br>
-      - Image Processing<br>
-      - Statistical Analysis<br>
-      - OpenCV<br>
-      - Fine-tuning
+      - Fast API<br>
     </td>
     <td>
-      - Microscopy Images based on Munich/Barcelona Hospital images.  
+      - .csv Questoin Bank  
     </td>
-    <td><img src="cell.jpg" alt="Project 1 Poster" width="200"></td>
+    <td><img src="survey.pnj" alt="Project 2 image" width="200"></td>
   </tr>
 </table>
 
