@@ -49,25 +49,32 @@
 
 ### Projects
 
-#### BloodPy-Automated Blood Cell Classifier
-[![GitHub Repository](https://img.shields.io/badge/Repository-Link-blue?style=flat&logo=github)](https://github.com/mirmehdi/RBCells_BigData_CNN.git)
-
-**Description:**
-> Multi-Classification of Peripheral Blood Cells using Deep Convolutional Neural Networks and Machine Learning Models.
-
-**Techniques:**
-- Deep CNN
-- Data Augmentation
-- Transfer Learning
-- U-Net
-- Image Processing
-- Statistical Analysis
-- OpenCV
-- Fine-tuning
-
-**Data Types:**
-- Image
-- Metadata
-
-**Poster:**
-![Project 1 Poster](cell.png)
+<table>
+  <tr>
+    <th style="text-align:left">Project</th>
+    <th style="text-align:left">Techniques</th>
+    <th style="text-align:left">Data Types</th>
+    <th style="text-align:left">Poster</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mirmehdi/RBCells_BigData_CNN.git"><strong>BloodPy-Automated Blood Cell Classifier</strong></a><br>
+      <em>Multi-Classification of Peripheral Blood Cells using Deep Convolutional Neural Networks and Machine Learning Models.</em>
+    </td>
+    <td>
+      - Deep CNN<br>
+      - Data Augmentation<br>
+      - Transfer Learning<br>
+      - U-Net<br>
+      - Image Processing<br>
+      - Statistical Analysis<br>
+      - OpenCV<br>
+      - Fine-tuning
+    </td>
+    <td>
+      - Image<br>
+      - Metadata
+    </td>
+    <td><img src="artifact_removal.jpg" alt="Project 1 Poster" width="200"></td>
+  </tr>
+</table>
