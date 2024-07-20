@@ -20,3 +20,9 @@
 
 </p>
 ---
+### 🏅 My Professional Badges
+### 🏅 My Professional Badges
+
+<p align="center">
+  <a href="https://www.coursera.org/account/accomplishments/certificate/G3YN8YBBTNF5"><img src="./DLAI.png" width="150"></a>
+</p>
