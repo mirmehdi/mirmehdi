@@ -24,9 +24,9 @@
 ---
 🏅 My Professional Badges
 <p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/G3YN8YBBTNF5"><img src="./DLAI.png" width="150"></a>
-  <a href="https://files.datascientest.com/diploma/cae1fe2f-fa11-416a-99a2-521bc0357e9c.pdf"><img src="./DST.png" width="150"></a>
-  <a href="https://www.udemy.com/certificate/UC-68d4c989-6ad6-4dc7-82bd-f7ad59af408b/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Udemy-Certificate-green" width="150" alt="Udemy Certificate" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/certificate/G3YN8YBBTNF5"><img src="./DLAI.png" width="150" heith = 150></a>
+  <a href="https://files.datascientest.com/diploma/cae1fe2f-fa11-416a-99a2-521bc0357e9c.pdf"><img src="./DST.png" width="150" height = "150"></a>
+  <a href="https://www.udemy.com/certificate/UC-68d4c989-6ad6-4dc7-82bd-f7ad59af408b/" target="_blank" rel="noreferrer"><img src="./superdatascience.png" width="150"></a>
 </p>
 
 ### 🛠 Skills
@@ -82,6 +82,22 @@
     </td>
     <td><img src="RBC.jpg" alt="Project 1 Poster" width="200"></td>
   </tr>
+
+  <tr>
+      <td>
+        <a href="https://github.com/mirmehdi/Stock_prediction.git"><strong>stock Market prediction</strong></a><br>
+        <em> Prdicted the stock values for different value stocks such as APPLE</em>
+      </td>
+      <td>
+        - LSTM neural network<br>
+      </td>
+      <td>
+        - realtime Data import 
+      </td>
+      <td><img src="stck.png" alt="Project 2 image" width="200"></td>
+    </tr>
+
+
 
  <tr>
     <td>
