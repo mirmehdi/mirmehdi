@@ -113,7 +113,7 @@
       <td>
         - realtime Data import 
       </td>
-      <td><img src="glucose.png" alt="Project 2 image" width="200"></td>
+      <td><img src="gluucose.png" alt="Project 2 image" width="200"></td>
     </tr>
 
  <tr>
