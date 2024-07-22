@@ -56,7 +56,6 @@
 
 <table>
   <tr>
-
     <th style="text-align:left">Project Title</th>
     <th style="text-align:left">Techniques</th>
     <th style="text-align:left">Data Types</th>
