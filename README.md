@@ -94,10 +94,27 @@
       <td>
         - realtime Data import 
       </td>
-      <td><img src="stck.png" alt="Project 2 image" width="200"></td>
+      <td><img src="stock.png" alt="Project 2 image" width="200"></td>
     </tr>
 
-
+--- glucose
+  <tr>
+      <td>
+        <a href="https://github.com/mirmehdi/NonInvasive_GlucoseDetectoin.git"><strong>calibration and prediction in noninvasive glucose sensors</strong></a><br>
+        <em> - AI, ML techniques for noninvasive blood glucose reading (not publick)<br>
+        - Market analysis
+        - Academic researches</em>
+      </td>
+      <td>
+        - PCA, PLS, ICA, ANN, <br>
+        - Signal processing, Filter design, 
+        - Statistics, Mathematics, Phisics
+      </td>
+      <td>
+        - realtime Data import 
+      </td>
+      <td><img src="glucose.png" alt="Project 2 image" width="200"></td>
+    </tr>
 
  <tr>
     <td>
