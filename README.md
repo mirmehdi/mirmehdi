@@ -91,10 +91,10 @@
     <em>Predicted stock values for various stocks, including Apple.</em>
   </td>
         <td>
-        - LSTM neural network<br>
+        - LSTM , FastApi, Kubernetes, Apache-Airflow, MLFlow, CI/CD, Prometheus, Grafana<br>
       </td>
       <td>
-        - realtime Data import 
+        - Historical data prices, Sentiment Analysis, Yahoo, Alpha Vintage, ... 
       </td>
       <td><img src="stock.png" alt="Project 2 image" width="200"></td>
     </tr>
