@@ -84,11 +84,13 @@
   </tr>
 
   <tr>
-      <td>
-        <a href="[https://github.com/mirmehdi/JUL24_BMLOps_Stock_market.git](https://github.com/Flocken-Migrationforce/JUL24_BMLOps_Stock_market.git)"><strong>stock Market prediction</strong></a><br>
-        <em> Prdicted the stock values for different value stocks such as APPLE</em>
-      </td>
-      <td>
+  <td>
+    <a href="https://github.com/Flocken-Migrationforce/JUL24_BMLOps_Stock_market.git">
+      <strong>Stock Market Prediction</strong>
+    </a><br>
+    <em>Predicted stock values for various stocks, including Apple.</em>
+  </td>
+        <td>
         - LSTM neural network<br>
       </td>
       <td>
