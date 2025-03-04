@@ -1,16 +1,17 @@
 ## Hi there 👋 I am Mir Mehdi (PhD.,-Ing): DataScientist | MLOps | Tech Leader. 
 
 
-- 🚀 Possessing over a decade of experience in designing cutting-edge hardware and algorithms for medical devices (designed more than 10 Medical Sensors from scratch idea to preproduct stage).
-- 🏢 Over 10 years of pure R&D experience in world-class organizations such as Huawei Sensor Lab, Technical University of Munich, Helmholtz Zentrum, and various startup companies.
-- 🎓 Having a PhD in Electronic and Informatics from Technical Univerisity of Munich.
-- 📜 Certified Data Scientist and MLOps Engineer from Datascientest and University of Sorbonne.
+- 🚀 Expert in **Statistics and Probability, Machine Learning, Deep learning, Image/signal Processing, and  MLOps techniques** (Continuous Integration and Deployment, DataOps - Isolation, DataOps - Orchestration, Monitoring).
+- 📊  **Acadamic Lecturer of Datascience, and Artificial Intellegance** in IU International University of Applied Science. 
+- 🏢 Possessing over a decade of experience in **designing cutting-edge hardware and algorithms** for devices (designed more than 10  Sensors from scratch idea to preproduct stage).
+- 🏢 **Over 13 years of pure R&D experience** in world-class organizations such as Huawei Sensor Lab, Technical University of Munich, Helmholtz Zentrum, and various startup companies.
+- 🎓 Having a **PhD in Electronic and Informatics** from Technical Univerisity of Munich.
+- 📜 **Certified Data Scientist and MLOps Engineer** from Datascientest and University of Sorbonne.
 - 🖥️ Expert in using Python, Matlab.
-- 📊 Solid foundation in Mathematics, Statistics, signal/Image processing.
 - 🤖 Developer of end-to-end AI/ML/DL projects, collaborating with cross-functional teams.
-- 🔭 I’m currently learning MLOps techniques, Continuous Integration and Deployment, DataOps - Isolation, DataOps - Orchestration, Monitoring.
-- 🌱 I’m currently working on different Datascience projects such as Red Blood Cell Identifier, Stock Market Analysis, and Blood Glucose Prediction.
+- 🌱 I’m currently working on different Datascience projects such as Stock Market Analysis, Blood Glucose Prediction, Efficiency improvement in Industery 4.0.
 ---
+
 
 ### Connect with me:
 <p align="left">
