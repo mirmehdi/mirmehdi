@@ -84,6 +84,44 @@
     <td><img src="RBC.jpg" alt="Project 1 Poster" width="200"></td>
   </tr>
 
+<tr>
+    <th style="text-align:left">Project Title</th>
+    <th style="text-align:left">Techniques</th>
+    <th style="text-align:left">Data Types</th>
+    <th style="text-align:left">Cover</th>
+    
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/mirmehdi/breast-cancer-classification.git"><strong>Breast Cancer Classification: real world problem </strong></a><br>
+      <em>Predicting if the cancer diagnosis is benign or malignant based on several observations/features</em>
+    </td>
+    <td>
+      - SVM 
+      - RandomForestClassifier
+      - Regression
+      - KNeighborsClassifier
+      - Object oriented
+      - Gridsearch
+    </td>
+    <td>
+      - 30 features are used, examples:
+        - radius (mean of distances from center to points on the perimeter)
+        - texture (standard deviation of gray-scale values)
+        - perimeter
+        - area
+        - smoothness (local variation in radius lengths)
+        - compactness (perimeter^2 / area - 1.0)
+        - concavity (severity of concave portions of the contour)
+        - concave points (number of concave portions of the contour)
+        - symmetry 
+        - fractal dimension ("coastline approximation" - 1)
+    </td>
+    <td><img src="Breast Cancer Awareness Month.jpg" alt="Project 6 Poster" width="200"></td>
+  </tr>
+
+
+
   <tr>
   <td>
     <a href="https://github.com/Flocken-Migrationforce/JUL24_BMLOps_Stock_market.git">
@@ -100,7 +138,6 @@
       <td><img src="stock.png" alt="Project 2 image" width="200"></td>
     </tr>
 
---- glucose
   <tr>
       <td>
         <a href="https://github.com/mirmehdi/NonInvasive_GlucoseDetectoin.git"><strong>calibration and prediction in noninvasive glucose sensors</strong></a><br>
