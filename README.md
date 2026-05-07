@@ -1,4 +1,5 @@
 ## Hi there 👋 I am Mir Mehdi (PhD.,-Ing): DataScientist | MLOps | Tech Leader. 
+## Here I mostly share project for the my students or Thesis I supervised.  
 
 
 - 🚀 Expert in **Statistics and Probability, Machine Learning, Deep learning, Image/signal Processing, and  MLOps techniques** (Continuous Integration and Deployment, DataOps - Isolation, DataOps - Orchestration, Monitoring).
@@ -9,7 +10,7 @@
 - 📜 **Certified Data Scientist and MLOps Engineer** from Datascientest and University of Sorbonne.
 - 🖥️ Expert in using Python, Matlab.
 - 🤖 Developer of end-to-end AI/ML/DL projects, collaborating with cross-functional teams.
-- 🌱 I’m currently working on different Datascience projects such as Stock Market Analysis, Blood Glucose Prediction, Efficiency improvement in Industery 4.0.
+- 🌱 I’m currently working on phyisics informed - Generative AI for material discovery, drug delivery.
 ---
 
 
