@@ -1,5 +1,5 @@
 ## Hi there 👋 I am Mir Mehdi (PhD.,-Ing): DataScientist | MLOps | Tech Leader. 
-## Here I mostly share project for the my students or Thesis I supervised.  
+## Here I mostly share projects for the my students or Thesis I supervised.  
 
 
 - 🚀 Expert in **Statistics and Probability, Machine Learning, Deep learning, Image/signal Processing, and  MLOps techniques** (Continuous Integration and Deployment, DataOps - Isolation, DataOps - Orchestration, Monitoring).
