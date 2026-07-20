@@ -65,7 +65,7 @@
     <td>
       CGM, PPG, EDA, skin temperature, accelerometry — 16-subject dataset
     </td>
-    <td><img src="stock_prediction_mlops-pipeline-timeseries/mlops_cover.png" alt="PhysioFusion" width="220"></td>
+    <td><img src="https://raw.githubusercontent.com/mirmehdi/physiofusion/main/physiofusion.png" alt="PhysioFusion" width="220"></td>
   </tr>
 
   <tr>
@@ -84,7 +84,7 @@
     <td>
       Historical price series (time-series regression demo)
     </td>
-    <td><img src="mlops_cover.png" alt="MLOps pipeline" width="220"></td>
+    <td><img src="https://raw.githubusercontent.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries/main/mlops_cover.png" alt="MLOps pipeline" width="220"></td>
   </tr>
 
   <tr>
