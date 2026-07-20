@@ -72,7 +72,7 @@
     <td>
       <strong>Non-Invasive Glucose &amp; Metabolite Sensing</strong><br>
       <em>ML and signal processing for needle-free glucose readings (industry R&amp;D — core code not public).</em><br>
-      Context: <a href="REPLACE_PNAS_URL">PNAS paper</a> · <a href="https://patents.google.com/patent/WO2024260547A1">Patent WO 2024/260547 A1</a>
+      Context: <a href="https://www.pnas.org/doi/abs/10.1073/pnas.1910597117">PNAS paper</a> · <a href="https://patents.google.com/patent/WO2024260547A1">Patent WO 2024/260547 A1</a>
     </td>
     <td>
       • Multimodal fusion (optical / acoustic / impedance)<br>
