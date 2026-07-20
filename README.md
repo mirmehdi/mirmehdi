@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="REPLACE_SCHOLAR_URL" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="[REPLACE_SCHOLAR_URL](https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en)" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
 ---
@@ -108,4 +108,4 @@
 
 - **PNAS (co-first author)** — *Short-wavelength optoacoustic spectroscopy based on water muting* &nbsp;·&nbsp; sensing / spectroscopy method.
 - **Patent** — WO 2024/260547 A1, multimodal metabolite-sensing apparatus (assignee: Huawei Technologies).
-- Full list on [Google Scholar](REPLACE_SCHOLAR_URL).
+- Full list on [Google Scholar]([REPLACE_SCHOLAR_URL](https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en)).
