@@ -53,9 +53,8 @@
 
   <tr>
     <td>
-      <strong>PhysioFusion</strong> &nbsp;·&nbsp; <em>in active development</em><br>
-      <em>Multimodal glucose forecasting from wearable signals.</em><br>
-      <sub>⚠️ repo link pending — see note under the table</sub>
+      <a href="https://github.com/mirmehdi/PhysioFusion"><strong>PhysioFusion</strong></a> &nbsp;·&nbsp; <em>in active development</em><br>
+      <em>Multimodal glucose forecasting from wearable signals.</em>
     </td>
     <td>
       • Multimodal sensor fusion<br>
@@ -90,9 +89,9 @@
 
   <tr>
     <td>
-      <strong>Non-Invasive Glucose &amp; Metabolite Sensing</strong><br>
+      <a href="https://doi.org/10.1073/pnas.1910597117"><strong>Non-Invasive Glucose &amp; Metabolite Sensing</strong></a><br>
       <em>ML and signal processing for needle-free glucose readings (industry R&amp;D — core code not public).</em><br>
-      Context: <a href="https://doi.org/10.1073/pnas.1910597117">PNAS paper</a> · <a href="https://patents.google.com/patent/WO2024260547A1">Patent WO 2024/260547 A1</a>
+      Published: <a href="https://doi.org/10.1073/pnas.1910597117">PNAS paper</a> · Patent: <a href="https://patents.google.com/patent/WO2024260547A1">WO 2024/260547 A1</a>
     </td>
     <td>
       • Multimodal fusion (optical / acoustic / impedance)<br>
@@ -122,8 +121,6 @@
   </tr>
 </table>
 
-<sub><strong>Note:</strong> PhysioFusion repository link to be added once the repo is public.</sub>
-
 ---
 
 ### 🎓 Supervised Theses
@@ -136,7 +133,7 @@
   </tr>
   <tr>
     <td>
-      <strong>LLM-Agent Molecular Design</strong><br>
+      <a href="https://github.com/mirmehdi/PolyFold_frontend_beta"><strong>LLM-Agent Molecular Design</strong></a><br>
       <em>M.Sc. thesis (supervised)</em>
     </td>
     <td>
