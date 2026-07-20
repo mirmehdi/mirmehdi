@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="[REPLACE_SCHOLAR_URL](https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en)" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="[[REPLACE_SCHOLAR_URL](https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en)](https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en)" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
 ---
