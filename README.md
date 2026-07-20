@@ -1,175 +1,111 @@
-## Hi there 👋 I am Mir Mehdi (PhD.,-Ing): DataScientist | MLOps | Tech Leader. 
-## Here I mostly share projects for the my students or Thesis I supervised.  
+## Hi 👋 I'm Mir Mehdi — Senior ML & Sensing Scientist (Dr.-Ing.)
 
+**Physiological signals · multimodal sensor fusion · non-invasive sensing**
 
-- 🚀 Expert in **Statistics and Probability, Machine Learning, Deep learning, Image/signal Processing, and  MLOps techniques** (Continuous Integration and Deployment, DataOps - Isolation, DataOps - Orchestration, Monitoring).
-- 📊  **Acadamic Lecturer of Datascience, and Artificial Intellegance** in IU International University of Applied Science. 
-- 🏢 Possessing over a decade of experience in **designing cutting-edge hardware and algorithms** for devices (designed more than 10  Sensors from scratch idea to preproduct stage).
-- 🏢 **Over 13 years of pure R&D experience** in world-class organizations such as Huawei Sensor Lab, Technical University of Munich, Helmholtz Zentrum, and various startup companies.
-- 🎓 Having a **PhD in Electronic and Informatics** from Technical Univerisity of Munich.
-- 📜 **Certified Data Scientist and MLOps Engineer** from Datascientest and University of Sorbonne.
-- 🖥️ Expert in using Python, Matlab.
-- 🤖 Developer of end-to-end AI/ML/DL projects, collaborating with cross-functional teams.
-- 🌱 I’m currently working on phyisics informed - Generative AI for material discovery, drug delivery.
+- 🔬 Dr.-Ing. from **TU Munich** (imaging) with **10+ years** turning noisy, real-world sensor data into validated ML models and reproducible pipelines.
+- 🧠 I work at the intersection of **physiological signal processing and machine learning** — ECG/HRV, PPG, electrodermal activity, respiration, and optical/optoacoustic sensing.
+- 🏭 Senior R&D across **Huawei Sensor Lab, Quantune Technologies, and Helmholtz Zentrum München / TUM**; designed 10+ sensors from concept to pre-product.
+- 📄 Co-first author of a **PNAS** paper on optoacoustic spectroscopy and named inventor on a **Huawei** metabolite-sensing patent (WO 2024/260547 A1).
+- 🛠️ Reproducible, deployment-oriented ML — **PyTorch, MLflow, Docker, CI/CD**; calibration and domain adaptation under device / subject / environment distribution shift.
+- 🎓 Academic Lecturer in ML & Data Science, **IU International University of Applied Sciences**.
+
 ---
 
+### 🔗 Connect
 
-### Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mirmehdi Seyedebrahimi" height="30" width="40" />
-  </a>
+  <a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="REPLACE_SCHOLAR_URL" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
-
-</p>
 ---
-🏅 My Professional Badges
-<p align="center">
-  <a href="https://www.coursera.org/account/accomplishments/certificate/G3YN8YBBTNF5"><img src="./DLAI.png" width="150" heith = 150></a>
-  <a href="https://files.datascientest.com/diploma/cae1fe2f-fa11-416a-99a2-521bc0357e9c.pdf"><img src="./DST.png" width="150" height = "150"></a>
-  <a href="https://www.udemy.com/certificate/UC-68d4c989-6ad6-4dc7-82bd-f7ad59af408b/" target="_blank" rel="noreferrer"><img src="./superdatascience.png" width="150"></a>
-</p>
 
 ### 🛠 Skills
 
 <p align="left">
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /></a>
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="72" height="36" alt="scikit-learn" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="72" height="36" alt="Bash" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" alt="TensorFlow" /></a>
 <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="72" height="36" alt="Keras" /></a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="72" height="36" alt="Matplotlib" /></a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="72" height="36" alt="Seaborn" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="72" height="36" alt="FastApi" /></a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/33655051?s=200&v=4" width="72" height="36" alt="MLFlow" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="72" height="36" alt="Python" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="72" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="72" height="36" alt="TensorFlow" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="72" height="36" alt="Pandas" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="72" height="36" alt="MATLAB" /></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /></a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/33655051?s=200&v=4" width="40" height="40" alt="MLflow" /></a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="72" height="36" alt="FastAPI" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40" alt="PostgreSQL" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="72" height="36" alt="Bash" /></a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" /></a>
 </p>
 
+---
 
-
-
-
-
-
-### Projects
+### 📌 Selected Projects
 
 <table>
   <tr>
-    <th style="text-align:left">Project Title</th>
-    <th style="text-align:left">Techniques</th>
-    <th style="text-align:left">Data Types</th>
-    <th style="text-align:left">Cover</th>
-    
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/mirmehdi/RBCells_BigData_CNN.git"><strong>BloodPy-Automated Blood Cell Classifier</strong></a><br>
-      <em>Multi-Classification of Peripheral Blood Cells using Deep Convolutional Neural Networks and Machine Learning Models.</em>
-    </td>
-    <td>
-      - Deep CNN<br>
-      - Data Augmentation<br>
-      - Transfer Learning<br>
-      - U-Net<br>
-      - Image Processing<br>
-      - Statistical Analysis<br>
-      - OpenCV<br>
-      - Fine-tuning
-    </td>
-    <td>
-      - Microscopy Images based on Munich/Barcelona Hospital images.  
-    </td>
-    <td><img src="RBC.jpg" alt="Project 1 Poster" width="200"></td>
+    <th align="left">Project</th>
+    <th align="left">Techniques</th>
+    <th align="left">Data</th>
+    <th align="left">Cover</th>
   </tr>
 
-<tr>
-    <th style="text-align:left">Project Title</th>
-    <th style="text-align:left">Techniques</th>
-    <th style="text-align:left">Data Types</th>
-    <th style="text-align:left">Cover</th>
-    
-  </tr>
   <tr>
     <td>
-      <a href="https://github.com/mirmehdi/breast-cancer-classification.git"><strong>Breast Cancer Classification: real world problem </strong></a><br>
-      <em>Predicting if the cancer diagnosis is benign or malignant based on several observations/features</em>
+      <a href="REPLACE_PHYSIOFUSION_REPO_URL"><strong>PhysioFusion</strong></a><br>
+      <em>Multimodal glucose forecasting from wearable signals. <strong>In active development.</strong></em>
     </td>
     <td>
-      - SVM 
-      - RandomForestClassifier
-      - Regression
-      - KNeighborsClassifier
-      - Object oriented
-      - Gridsearch
+      • Multimodal sensor fusion<br>
+      • Temporal / sequence models<br>
+      • Leakage-safe, subject-aware pipelines<br>
+      • PyTorch · MLflow · Docker
     </td>
     <td>
-      - 30 features are used, examples:
-        - radius (mean of distances from center to points on the perimeter)
-        - texture (standard deviation of gray-scale values)
-        - perimeter
-        - area
-        - smoothness (local variation in radius lengths)
-        - compactness (perimeter^2 / area - 1.0)
-        - concavity (severity of concave portions of the contour)
-        - concave points (number of concave portions of the contour)
-        - symmetry 
-        - fractal dimension ("coastline approximation" - 1)
+      CGM, PPG, EDA, skin temperature, accelerometry — 16-subject dataset
     </td>
-    <td><img src="Breast Cancer Awareness Month.jpg" alt="Project 6 Poster" width="200"></td>
+    <td><img src="physiofusion.png" alt="PhysioFusion" width="220"></td>
   </tr>
 
-
+  <tr>
+    <td>
+      <strong>Non-Invasive Glucose &amp; Metabolite Sensing</strong><br>
+      <em>ML and signal processing for needle-free glucose readings (industry R&amp;D — core code not public).</em><br>
+      Context: <a href="REPLACE_PNAS_URL">PNAS paper</a> · <a href="https://patents.google.com/patent/WO2024260547A1">Patent WO 2024/260547 A1</a>
+    </td>
+    <td>
+      • Multimodal fusion (optical / acoustic / impedance)<br>
+      • Calibration &amp; ML-based compensation<br>
+      • PCA · PLS · ICA · spectral analysis
+    </td>
+    <td>
+      Optical (NIR/IR), photoacoustic, and electro-impedance signals
+    </td>
+    <td><img src="gluucose.png" alt="Non-invasive glucose sensing" width="220"></td>
+  </tr>
 
   <tr>
-  <td>
-    <a href="https://github.com/Flocken-Migrationforce/JUL24_BMLOps_Stock_market.git">
-      <strong>Stock Market Prediction</strong>
-    </a><br>
-    <em>Predicted stock values for various stocks, including Apple.</em>
-  </td>
-        <td>
-        - LSTM , FastApi, Kubernetes, Apache-Airflow, MLFlow, CI/CD, Prometheus, Grafana<br>
-      </td>
-      <td>
-        - Historical data prices, Sentiment Analysis, Yahoo, Alpha Vintage, ... 
-      </td>
-      <td><img src="stock.png" alt="Project 2 image" width="200"></td>
-    </tr>
-
-  <tr>
-      <td>
-        <a href="https://github.com/mirmehdi/NonInvasive_GlucoseDetectoin.git"><strong>calibration and prediction in noninvasive glucose sensors</strong></a><br>
-        <em> - AI, ML techniques for noninvasive blood glucose reading (not publick)<br>
-        - Market analysis
-        - Academic researches</em>
-      </td>
-      <td>
-        - PCA, PLS, ICA, ANN, <br>
-        - Signal processing, Filter design, 
-        - Statistics, Mathematics, Phisics
-      </td>
-      <td>
-        - realtime Data import 
-      </td>
-      <td><img src="gluucose.png" alt="Project 2 image" width="200"></td>
-    </tr>
-
- <tr>
     <td>
-      <a href="https://github.com/mirmehdi/SurveyBank_FastAPI.git"><strong>Automatic Survey Producer API</strong></a><br>
-      <em> A survey with different subject, use, and Number were chosen from survey Bank. Fast API were used to deploy the content.</em>
+      <a href="https://github.com/mirmehdi/RBCells_BigData_CNN"><strong>Blood Cell Classification</strong></a><br>
+      <em>Deep learning for peripheral blood-cell classification on clinical microscopy images.</em>
     </td>
     <td>
-      - Fast API<br>
+      • Deep CNN · Transfer learning<br>
+      • U-Net segmentation<br>
+      • Data augmentation · OpenCV
     </td>
     <td>
-      - .csv Questoin Bank  
+      Microscopy images (Munich / Barcelona hospital datasets)
     </td>
-    <td><img src="survey.png" alt="Project 2 image" width="200"></td>
+    <td><img src="RBC.jpg" alt="Blood cell classification" width="220"></td>
   </tr>
 </table>
 
+---
 
+### 📄 Publications &amp; IP
+
+- **PNAS (co-first author)** — *Short-wavelength optoacoustic spectroscopy based on water muting* &nbsp;·&nbsp; sensing / spectroscopy method.
+- **Patent** — WO 2024/260547 A1, multimodal metabolite-sensing apparatus (assignee: Huawei Technologies).
+- Full list on [Google Scholar](REPLACE_SCHOLAR_URL).
