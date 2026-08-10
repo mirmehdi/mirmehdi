@@ -41,85 +41,9 @@
 
 ---
 
-### 📌 Selected Projects
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Techniques</th>
-    <th align="left">Data</th>
-    <th align="left">Cover</th>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/mirmehdi/PhysioFusion"><strong>PhysioFusion</strong></a> &nbsp;·&nbsp; <em>in active development</em><br>
-      <em>Multimodal glucose forecasting from wearable signals.</em>
-    </td>
-    <td>
-      • Multimodal sensor fusion<br>
-      • Temporal / sequence models<br>
-      • Leakage-safe, subject-aware pipelines<br>
-      • PyTorch · MLflow · Docker
-    </td>
-    <td>
-      CGM, PPG, EDA, skin temperature, accelerometry — 16-subject dataset
-    </td>
-    <td><img src="https://raw.githubusercontent.com/mirmehdi/physiofusion/main/physiofusion.png" alt="PhysioFusion" width="220"></td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries"><strong>End-to-End MLOps Pipeline</strong></a><br>
-      <em>Production ML pipeline for time-series forecasting — orchestration to monitoring. (Team project; I led the pipeline. Prediction target is illustrative.)</em><br>
-      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" />
-    </td>
-    <td>
-      Historical price series (time-series regression demo)
-    </td>
-    <td><img src="https://raw.githubusercontent.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries/main/mlops_cover.png" alt="MLOps pipeline" width="220"></td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://doi.org/10.1073/pnas.1910597117"><strong>Non-Invasive Glucose &amp; Metabolite Sensing</strong></a><br>
-      <em>ML and signal processing for needle-free glucose readings (industry R&amp;D — core code not public).</em><br>
-      Published: <a href="https://doi.org/10.1073/pnas.1910597117">PNAS paper</a> · Patent: <a href="https://patents.google.com/patent/WO2024260547A1">WO 2024/260547 A1</a>
-    </td>
-    <td>
-      • Multimodal fusion (optical / acoustic / impedance)<br>
-      • Calibration &amp; ML-based compensation<br>
-      • PCA · PLS · ICA · spectral analysis
-    </td>
-    <td>
-      Optical (NIR/IR), photoacoustic, and electro-impedance signals
-    </td>
-    <td><img src="gluucose.png" alt="Non-invasive glucose sensing" width="220"></td>
-  </tr>
-
-  <tr>
-    <td>
-      <a href="https://github.com/mirmehdi/RBCells_BigData_CNN"><strong>Blood Cell Classification</strong></a><br>
-      <em>Deep learning for peripheral blood-cell classification on clinical microscopy images. Collaboration with F. Bahman and S. Hosseini.</em>
-    </td>
-    <td>
-      • Deep CNN · Transfer learning<br>
-      • U-Net segmentation<br>
-      • Data augmentation · OpenCV
-    </td>
-    <td>
-      Microscopy images (Munich / Barcelona hospital datasets)
-    </td>
-    <td><img src="RBC.jpg" alt="Blood cell classification" width="220"></td>
-  </tr>
-</table>
+📌 Selected Projects
+<table> <tr> <th align="left">Project</th> <th align="left">Techniques</th> <th align="left">Data</th> <th align="left">Cover</th> </tr> <tr> <td> <a href="https://github.com/mirmehdi/PhysioFusion"><strong>PhysioFusion</strong></a> &nbsp;·&nbsp; <em>in active development</em><br> <em>Multimodal glucose forecasting from wearable signals.</em><br> Preprint: <a href="https://doi.org/10.64898/2026.08.03.26359550">A Leakage-Controlled Evaluation of Multimodal Sensor Fusion for Wrist-Worn Glucose Estimation</a> (medRxiv, 2026) </td> <td> • Multimodal sensor fusion<br> • Temporal / sequence models<br> • Leakage-safe, subject-aware pipelines<br> • PyTorch · MLflow · Docker </td> <td> CGM, PPG, EDA, skin temperature, accelerometry — 16-subject dataset </td> <td><img src="https://raw.githubusercontent.com/mirmehdi/physiofusion/main/physiofusion.png" alt="PhysioFusion" width="220"></td> </tr> <tr> <td> <a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries"><strong>End-to-End MLOps Pipeline</strong></a><br> <em>Production ML pipeline for time-series forecasting — orchestration to monitoring. (Team project; I led the pipeline. Prediction target is illustrative.)</em><br> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" /> </td> <td> Historical price series (time-series regression demo) </td> <td><img src="https://raw.githubusercontent.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries/main/mlops_cover.png" alt="MLOps pipeline" width="220"></td> </tr> <tr> <td> <a href="https://doi.org/10.1073/pnas.1910597117"><strong>Non-Invasive Glucose &amp; Metabolite Sensing</strong></a><br> <em>ML and signal processing for needle-free glucose readings (industry R&amp;D — core code not public).</em><br> Published: <a href="https://doi.org/10.1073/pnas.1910597117">PNAS paper</a> · Patent: <a href="https://patents.google.com/patent/WO2024260547A1">WO 2024/260547 A1</a> </td> <td> • Multimodal fusion (optical / acoustic / impedance)<br> • Calibration &amp; ML-based compensation<br> • PCA · PLS · ICA · spectral analysis </td> <td> Optical (NIR/IR), photoacoustic, and electro-impedance signals </td> <td><img src="gluucose.png" alt="Non-invasive glucose sensing" width="220"></td> </tr> <tr> <td> <a href="https://github.com/mirmehdi/RBCells_BigData_CNN"><strong>Blood Cell Classification</strong></a><br> <em>Deep learning for peripheral blood-cell classification on clinical microscopy images. Collaboration with F. Bahman and S. Hosseini.</em> </td> <td> • Deep CNN · Transfer learning<br> • U-Net segmentation<br> • Data augmentation · OpenCV </td> <td> Microscopy images (Munich / Barcelona hospital datasets) </td> <td><img src="RBC.jpg" alt="Blood cell classification" width="220"></td> </tr> </table>
 
 ---
 
@@ -154,6 +78,9 @@
 
 ### 📄 Publications &amp; IP
 
+- Preprint: <a href="https://arxiv.org/abs/2606.11256">My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents</a> (Arxiv.org, Submitted to ACS 2026) </td> <td>  
 - **PNAS (co-first author)** — [Short-wavelength optoacoustic spectroscopy based on water muting](https://doi.org/10.1073/pnas.1910597117) &nbsp;·&nbsp; sensing / spectroscopy method.
 - **Patent** — [WO 2024/260547 A1](https://patents.google.com/patent/WO2024260547A1), multimodal metabolite-sensing apparatus (assignee: Huawei Technologies).
+- Preprint: <a href="https://doi.org/10.64898/2026.08.03.26359550">A Leakage-Controlled Evaluation of Multimodal Sensor Fusion for Wrist-Worn Glucose Estimation</a> (medRxiv, 2026) </td> <td> 
 - Full list on [Google Scholar](https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en).
+  
