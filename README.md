@@ -5,7 +5,7 @@
 Berlin, Germany · open to senior ML roles and freelance projects
 
 <a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+
 
 I spent 10 years building medical sensors and the ML behind them — at Huawei's sensor lab, Helmholtz Munich / TUM and medtech start-ups.
 I care most about evaluation that survives contact with real patients: subject-level splits, leakage control, calibration under device shift.
