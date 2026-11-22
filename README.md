@@ -1,66 +1,63 @@
-## Hi 👋 I'm Mir Mehdi — Senior ML & Sensing Scientist (Dr.-Ing.)
+# Mir Mehdi Seyedebrahimi, Dr.-Ing.
 
-**Physiological signals · multimodal sensor fusion · non-invasive sensing**
+**ML engineer for biomedical signals and medical imaging — from raw sensor data to tested, deployed models.**
 
-- 🔬 Dr.-Ing. from **TU Munich** (imaging) with **10+ years** turning noisy, real-world sensor data into validated ML models and reproducible pipelines.
-- 🧠 I work at the intersection of **physiological signal processing and machine learning** — ECG/HRV, PPG, electrodermal activity, respiration, and optical/optoacoustic sensing.
-- 🏭 Senior R&D across **Huawei Sensor Lab, Quantune Technologies, and Helmholtz Zentrum München / TUM**; designed 10+ sensors from concept to pre-product.
-- 📄 Co-first author of a **PNAS** paper on optoacoustic spectroscopy and named inventor on a **Huawei** metabolite-sensing patent (WO 2024/260547 A1).
-- 🛠️ Reproducible, deployment-oriented ML — **PyTorch, MLflow, Docker, CI/CD**; calibration and domain adaptation under device / subject / environment distribution shift.
-- 🎓 Academic Lecturer in ML & Data Science, **IU International University of Applied Sciences**.
+Berlin, Germany · open to senior ML roles and freelance projects
 
----
+<a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
 
-### 🔗 Connect
+I spent 10 years building medical sensors and the ML behind them — at Huawei's sensor lab, Helmholtz Munich / TUM and medtech start-ups.
+I care most about evaluation that survives contact with real patients: subject-level splits, leakage control, calibration under device shift.
+Now I ship it: pipelines, experiment tracking, containers, CI and AWS.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mirmehdiseyedebrahimi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-</p>
+### What I can do for you
 
----
-
-### 🛠 Skills
-
-<p align="left">
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="72" height="36" alt="scikit-learn" /></a>
-<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="40" height="40" alt="TensorFlow" /></a>
-<a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="72" height="36" alt="Keras" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="40" height="40" alt="Python" /></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="72" height="36" alt="Pandas" /></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /></a>
-<a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/33655051?s=200&v=4" width="40" height="40" alt="MLflow" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="72" height="36" alt="FastAPI" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="40" height="40" alt="PostgreSQL" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="72" height="36" alt="Bash" /></a>
-<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="MATLAB" /></a>
-</p>
+| | |
+|---|---|
+| **Biosignal & wearable ML** | ECG/HRV, PPG, EDA, respiration, CGM — cleaning, fusion, forecasting |
+| **Medical imaging** | Segmentation and measurement on MRI, PET/CT, ultrasound; DICOM workflows |
+| **Validation audits** | Find data leakage and over-optimistic results before a regulator or customer does |
+| **Production on AWS** | From notebook to pipeline: MLflow, Airflow, FastAPI, Docker, SageMaker, CI |
 
 ---
 
+### Selected projects
 
-### 📌 Selected Projects
+<table>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/physiofusion"><img src="assets/physiofusion.svg" width="100%" alt="PhysioFusion"/></a><br/><b><a href="https://github.com/mirmehdi/physiofusion">PhysioFusion</a></b> — Leakage-controlled test of wearable sensor fusion for glucose forecasting. Python library + <a href="https://doi.org/10.64898/2026.08.03.26359550">medRxiv preprint</a>.</td>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/hippocampus-volume-ai"><img src="assets/hippocampus.svg" width="100%" alt="HippoVolume.AI"/></a><br/><b><a href="https://github.com/mirmehdi/hippocampus-volume-ai">HippoVolume.AI</a></b> — U-Net hippocampus segmentation and volume report from MRI, designed for a PACS workflow.</td>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries"><img src="assets/mlops.svg" width="100%" alt="MLOps pipeline"/></a><br/><b><a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries">MLOps Time-Series Pipeline</a></b> — Airflow, MLflow, FastAPI and Docker with daily retraining. Team project; I led the pipeline.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/scones-unlimited-ml-awsworkflow"><img src="assets/scones.svg" width="100%" alt="ML workflow on AWS"/></a><br/><b><a href="https://github.com/mirmehdi/scones-unlimited-ml-awsworkflow">Event-Driven ML on AWS</a></b> — SageMaker endpoint orchestrated by Lambda and Step Functions, with data capture.</td>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/petct-interactive"><img src="assets/petct.svg" width="100%" alt="Interactive PET/CT"/></a><br/><b><a href="https://github.com/mirmehdi/petct-interactive">Interactive PET/CT</a></b> — autoPET V challenge: 150 GB on AWS, own data audit, pre-registered experiments. <i>In progress.</i></td>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/glycocast"><img src="assets/glycocast.svg" width="100%" alt="GlycoCast"/></a><br/><b><a href="https://github.com/mirmehdi/glycocast">GlycoCast</a></b> — CGM pipeline from messy device exports to a glucose forecast and low-glucose alarm. <i>In progress.</i></td>
+</tr>
+</table>
 
-<table> <tr> <th align="left">Project</th> <th align="left">Techniques</th> <th align="left">Data</th> <th align="left">Cover</th> </tr> <tr> <td> <a href="https://github.com/mirmehdi/physiofusion"><strong>PhysioFusion</strong></a><br> <em>Multimodal glucose forecasting from wearable signals.</em><br> Preprint: <a href="https://doi.org/10.64898/2026.08.03.26359550">A Leakage-Controlled Evaluation of Multimodal Sensor Fusion for Wrist-Worn Glucose Estimation</a> (medRxiv, 2026) </td> <td> • Multimodal sensor fusion<br> • Temporal / sequence models<br> • Leakage-safe, subject-grouped evaluation<br> • PyTorch · scikit-learn · pytest </td> <td> CGM, PPG, EDA, skin temperature, accelerometry — 15 subjects (BIG IDEAs Lab) </td> <td><img src="https://raw.githubusercontent.com/mirmehdi/physiofusion/main/physiofusion.png" alt="PhysioFusion" width="220"></td> </tr> <tr> <td> <a href="https://github.com/mirmehdi/hippocampus-volume-ai"><strong>HippoVolume.AI</strong></a><br> <em>Hippocampus segmentation and volume measurement from brain MRI for tracking Alzheimer's disease progression. Dice 0.896 on 52 held-out patients.</em> </td> <td> • 2D U-Net (PyTorch)<br> • Patient-level split, per-patient metrics<br> • DICOM / PACS integration (in progress) </td> <td> T2 brain MRI (NIfTI / DICOM) — Medical Segmentation Decathlon, 260 volumes </td> <td><img src="https://raw.githubusercontent.com/mirmehdi/hippocampus-volume-ai/main/readme.img/hippocampus_thumb.png" alt="HippoVolume.AI" width="220"></td> </tr> <tr> <td> <a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries"><strong>End-to-End MLOps Pipeline</strong></a><br> <em>Production ML pipeline for time-series forecasting — orchestration to monitoring. (Team project; I led the pipeline. Prediction target is illustrative.)</em><br> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?logo=apacheairflow&logoColor=white" /> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" /> </td> <td> Historical price series (time-series regression demo) </td> <td><img src="https://raw.githubusercontent.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries/main/mlops_cover.png" alt="MLOps pipeline" width="220"></td> </tr> <tr> <td> <a href="https://doi.org/10.1073/pnas.1910597117"><strong>Non-Invasive Glucose &amp; Metabolite Sensing</strong></a><br> <em>ML and signal processing for needle-free glucose readings (industry R&amp;D — core code not public).</em><br> Published: <a href="https://doi.org/10.1073/pnas.1910597117">PNAS paper</a> · Patent: <a href="https://patents.google.com/patent/WO2024260547A1">WO 2024/260547 A1</a> </td> <td> • Multimodal fusion (optical / acoustic / impedance)<br> • Calibration &amp; ML-based compensation<br> • PCA · PLS · ICA · spectral analysis </td> <td> Optical (NIR/IR), photoacoustic, and electro-impedance signals </td> <td><img src="gluucose.png" alt="Non-invasive glucose sensing" width="220"></td> </tr> <tr> <td> <a href="https://github.com/mirmehdi/RBCells_BigData_CNN"><strong>Blood Cell Classification</strong></a><br> <em>Deep learning for peripheral blood-cell classification on clinical microscopy images. Collaboration with F. Bahman and S. Hosseini.</em> </td> <td> • Deep CNN · Transfer learning<br> • U-Net segmentation<br> • Data augmentation · OpenCV </td> <td> Microscopy images (Munich / Barcelona hospital datasets) </td> <td><img src="RBC.jpg" alt="Blood cell classification" width="220"></td> </tr> </table>
+<sub>Status labels are honest: "in progress" means the work is ongoing, and results are shown only once measured.</sub>
+
+**Also in progress:** [tus-rec](https://github.com/mirmehdi/tus-rec) — trackerless freehand ultrasound reconstruction (TUS-REC challenge).
 
 ---
 
-### 🎓 Supervised Theses
+### Industry R&D (code not public)
 
-<table> <tr> <th align="left">Thesis</th> <th align="left">Focus</th> <th align="left">Code</th> </tr> <tr> <td> <a href="https://github.com/mirmehdi/PolyFold_frontend_beta"><strong>LLM-Agent Molecular Design</strong></a><br> <em>M.Sc. thesis (supervised)</em> </td> <td> Evolutionary molecular / polymer design with large-language-model agents; interactive web frontend. Associated ACS preprint (under review). </td> <td> <a href="https://github.com/mirmehdi/PolyFold_frontend_beta">PolyFold&nbsp;(frontend, beta)</a> </td> </tr> <tr> <td> <a href="https://github.com/Sara-Hosseini/financial-time-series-forecasting"><strong>Financial Time-Series Forecasting</strong></a><br> <em>M.Sc. thesis (supervised)</em> </td> <td> Forecasting and evaluation on financial time-series data. </td> <td> <a href="https://github.com/Sara-Hosseini/financial-time-series-forecasting">financial-time-series-forecasting</a> </td> </tr> </table>
+Non-invasive glucose and metabolite sensing (optical, photoacoustic, impedance) with ML-based calibration · 10+ sensors designed from concept to pre-product · a respiratory-monitoring device taken through clinical testing.
 
-<sub>Additional supervised theses (knowledge distillation, parameter-efficient fine-tuning, time-series forecasting) — available on request.</sub>
+### Publications & IP
 
----
+- **PNAS** (co-first author) — [Short-wavelength optoacoustic spectroscopy based on water muting](https://doi.org/10.1073/pnas.1910597117)
+- **Patent** — [WO 2024/260547 A1](https://patents.google.com/patent/WO2024260547A1), multimodal metabolite-sensing apparatus (Huawei Technologies)
+- **medRxiv 2026** — [A Leakage-Controlled Evaluation of Multimodal Sensor Fusion for Wrist-Worn Glucose Estimation](https://doi.org/10.64898/2026.08.03.26359550)
+- **arXiv 2026** — [My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with LLM Agents](https://arxiv.org/abs/2606.11256)
 
-### 📄 Publications &amp; IP
+### Teaching
 
-- Preprint: <a href="https://arxiv.org/abs/2606.11256">My Chemical Harness: Evolutionary Molecular Design over Synthetic Pathways with Large Language Model Agents</a> (arXiv, 2026; submitted to ACS)
-- **PNAS (co-first author)** — [Short-wavelength optoacoustic spectroscopy based on water muting](https://doi.org/10.1073/pnas.1910597117) &nbsp;·&nbsp; sensing / spectroscopy method.
-- **Patent** — [WO 2024/260547 A1](https://patents.google.com/patent/WO2024260547A1), multimodal metabolite-sensing apparatus (assignee: Huawei Technologies).
-- Preprint: <a href="https://doi.org/10.64898/2026.08.03.26359550">A Leakage-Controlled Evaluation of Multimodal Sensor Fusion for Wrist-Worn Glucose Estimation</a> (medRxiv, 2026)
-- Full list on [Google Scholar](https://scholar.google.com/citations?user=2QVTuTcAAAAJ&hl=en).
-  
+Lecturer in ML & Data Science, IU International University of Applied Sciences (2024–2026): 10+ graduate modules, supervised M.Sc. theses (incl. LLM-agent molecular design). Course materials: [ML](https://github.com/mirmehdi/machine_learning_teaching) · [RL](https://github.com/mirmehdi/ReinforcementLearning_Teaching) · [Python](https://github.com/mirmehdi/Teaching_Python).
+
+### Tools
+
+Python · PyTorch · scikit-learn · MLflow · Airflow · FastAPI · Docker · GitHub Actions · AWS (S3, EC2, SageMaker, Lambda, Step Functions) · SQL · MATLAB
