@@ -13,7 +13,7 @@ Now I ship it: pipelines, experiment tracking, containers, CI and AWS.
 
 ### What I can do for you
 
-| | |
+| Service | What it covers |
 |---|---|
 | **Biosignal & wearable ML** | ECG/HRV, PPG, EDA, respiration, CGM — cleaning, fusion, forecasting |
 | **Medical imaging** | Segmentation and measurement on MRI, PET/CT, ultrasound; DICOM workflows |
