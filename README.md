@@ -56,7 +56,15 @@ Non-invasive glucose and metabolite sensing (optical, photoacoustic, impedance) 
 
 ### Teaching
 
-Lecturer in ML & Data Science, IU International University of Applied Sciences (2024–2026): 10+ graduate modules, supervised M.Sc. theses (incl. LLM-agent molecular design). Course materials: [ML](https://github.com/mirmehdi/machine_learning_teaching) · [RL](https://github.com/mirmehdi/ReinforcementLearning_Teaching) · [Python](https://github.com/mirmehdi/Teaching_Python).
+Lecturer in ML & Data Science, IU International University of Applied Sciences (2024–2026): 10+ graduate modules and supervision of M.Sc. theses.
+
+### Supervised theses
+
+<table> <tr> <th align="left">Thesis</th> <th align="left">Focus</th> <th align="left">Code</th> </tr> <tr> <td> <a href="https://github.com/mirmehdi/PolyFold_frontend_beta"><strong>LLM-Agent Molecular Design</strong></a><br> <em>M.Sc. thesis (supervised)</em> </td> <td> Evolutionary molecular / polymer design with large-language-model agents; interactive web frontend. Associated ACS preprint (under review). </td> <td> <a href="https://github.com/mirmehdi/PolyFold_frontend_beta">PolyFold&nbsp;(frontend, beta)</a> </td> </tr> <tr> <td> <a href="https://github.com/Sara-Hosseini/financial-time-series-forecasting"><strong>Financial Time-Series Forecasting</strong></a><br> <em>M.Sc. thesis (supervised)</em> </td> <td> Forecasting and evaluation on financial time-series data. </td> <td> <a href="https://github.com/Sara-Hosseini/financial-time-series-forecasting">financial-time-series-forecasting</a> </td> </tr> </table>
+
+<sub>Additional supervised theses (knowledge distillation, parameter-efficient fine-tuning, time-series forecasting) — available on request.</sub>
+
+---
 
 ### Tools
 
