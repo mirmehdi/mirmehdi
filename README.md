@@ -35,9 +35,6 @@ Now I ship it: pipelines, experiment tracking, containers, CI and AWS.
 <td width="33%" valign="top"><a href="https://github.com/mirmehdi/scones-unlimited-ml-awsworkflow"><img src="assets/scones.svg" width="100%" alt="ML workflow on AWS"/></a><br/><b><a href="https://github.com/mirmehdi/scones-unlimited-ml-awsworkflow">Event-Driven ML on AWS</a></b> — SageMaker endpoint orchestrated by Lambda and Step Functions, with data capture.</td>
 <td width="33%" valign="top"><a href="https://github.com/mirmehdi/petct-interactive"><img src="assets/petct.svg" width="100%" alt="Interactive PET/CT"/></a><br/><b><a href="https://github.com/mirmehdi/petct-interactive">Interactive PET/CT</a></b> — autoPET V challenge: 150 GB on AWS, own data audit, pre-registered experiments. <i>In progress.</i></td>
 </tr>
-<tr>
-<td width="33%" valign="top"><a href="https://github.com/mirmehdi/glycocast"><img src="assets/glycocast.svg" width="100%" alt="GlycoCast"/></a><br/><b><a href="https://github.com/mirmehdi/glycocast">GlycoCast</a></b> — CGM pipeline from messy device exports to a glucose forecast and low-glucose alarm. <i>In progress.</i></td>
-</tr>
 </table>
 
 <sub>Status labels are honest: "in progress" means the work is ongoing, and results are shown only once measured.</sub>
