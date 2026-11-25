@@ -26,13 +26,16 @@ Now I ship it: pipelines, experiment tracking, containers, CI and AWS.
 
 <table>
 <tr>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/bedrock-rag-terraform"><img src="assets/bedrock-rag.svg" width="100%" alt="RAG on AWS Bedrock"/></a><br/><b><a href="https://github.com/mirmehdi/bedrock-rag-terraform">RAG on AWS Bedrock</a></b> — Document Q&amp;A over PDF spec sheets: Bedrock Knowledge Base on Aurora pgvector, all provisioned with Terraform; guarded chat with cited sources.</td>
 <td width="33%" valign="top"><a href="https://github.com/mirmehdi/physiofusion"><img src="assets/physiofusion.svg" width="100%" alt="PhysioFusion"/></a><br/><b><a href="https://github.com/mirmehdi/physiofusion">PhysioFusion</a></b> — Leakage-controlled test of wearable sensor fusion for glucose forecasting. Python library + <a href="https://doi.org/10.64898/2026.08.03.26359550">medRxiv preprint</a>.</td>
 <td width="33%" valign="top"><a href="https://github.com/mirmehdi/hippocampus-volume-ai"><img src="assets/hippocampus.svg" width="100%" alt="HippoVolume.AI"/></a><br/><b><a href="https://github.com/mirmehdi/hippocampus-volume-ai">HippoVolume.AI</a></b> — U-Net hippocampus segmentation and volume report from MRI, designed for a PACS workflow.</td>
-<td width="33%" valign="top"><a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries"><img src="assets/mlops.svg" width="100%" alt="MLOps pipeline"/></a><br/><b><a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries">MLOps Time-Series Pipeline</a></b> — Airflow, MLflow, FastAPI and Docker with daily retraining. Team project; I led the pipeline.</td>
 </tr>
 <tr>
+<td width="33%" valign="top"><a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries"><img src="assets/mlops.svg" width="100%" alt="MLOps pipeline"/></a><br/><b><a href="https://github.com/mirmehdi/stock_prediction_mlops-pipeline-timeseries">MLOps Time-Series Pipeline</a></b> — Airflow, MLflow, FastAPI and Docker with daily retraining. Team project; I led the pipeline.</td>
 <td width="33%" valign="top"><a href="https://github.com/mirmehdi/scones-unlimited-ml-awsworkflow"><img src="assets/scones.svg" width="100%" alt="ML workflow on AWS"/></a><br/><b><a href="https://github.com/mirmehdi/scones-unlimited-ml-awsworkflow">Event-Driven ML on AWS</a></b> — SageMaker endpoint orchestrated by Lambda and Step Functions, with data capture.</td>
 <td width="33%" valign="top"><a href="https://github.com/mirmehdi/petct-interactive"><img src="assets/petct.svg" width="100%" alt="Interactive PET/CT"/></a><br/><b><a href="https://github.com/mirmehdi/petct-interactive">Interactive PET/CT</a></b> — autoPET V challenge: 150 GB on AWS, own data audit, pre-registered experiments. <i>In progress.</i></td>
+</tr>
+<tr>
 <td width="33%" valign="top"><a href="https://github.com/mirmehdi/glycocast"><img src="assets/glycocast.svg" width="100%" alt="GlycoCast"/></a><br/><b><a href="https://github.com/mirmehdi/glycocast">GlycoCast</a></b> — CGM pipeline from messy device exports to a glucose forecast and low-glucose alarm. <i>In progress.</i></td>
 </tr>
 </table>
@@ -68,4 +71,4 @@ Lecturer in ML & Data Science, IU International University of Applied Sciences (
 
 ### Tools
 
-Python · PyTorch · scikit-learn · MLflow · Airflow · FastAPI · Docker · GitHub Actions · AWS (S3, EC2, SageMaker, Lambda, Step Functions) · SQL · MATLAB
+Python · PyTorch · scikit-learn · MLflow · Airflow · FastAPI · Docker · GitHub Actions · AWS (S3, EC2, SageMaker, Bedrock, Lambda, Step Functions, Aurora) · Terraform · SQL · MATLAB
