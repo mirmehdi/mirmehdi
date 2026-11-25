@@ -18,7 +18,7 @@ Now I ship it: pipelines, experiment tracking, containers, CI and AWS.
 | **Biosignal & wearable ML** | ECG/HRV, PPG, EDA, respiration, CGM — cleaning, fusion, forecasting |
 | **Medical imaging** | Segmentation and measurement on MRI, PET/CT, ultrasound; DICOM workflows |
 | **Validation audits** | Find data leakage and over-optimistic results before a regulator or customer does |
-| **Production on AWS** | From notebook to pipeline: MLflow, Airflow, FastAPI, Docker, SageMaker, CI |
+| **Production on AWS** | From notebook to pipeline: MLflow, Airflow, FastAPI, Docker, SageMaker, Lambda, CI, CD, Kubernetes, Terraform, Bedrock |
 
 ---
 
